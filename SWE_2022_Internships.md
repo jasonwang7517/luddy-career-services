@@ -75,7 +75,7 @@ Name | Location(s) | Industry | Notes
 [Plaid](https://jobs.lever.co/plaid/94e3fd39-3cb6-4a63-83a4-f0b5be178b79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY | Finance
 [Pocket Gems](https://www.linkedin.com/jobs/view/software-engineer-summer-intern-2022-at-pocket-gems-2709728782/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Mobile Gaming | [Series B Startup](https://www.crunchbase.com/organization/pocket-gems)
 [Point72, Cubist Systematic Strategies](https://careers.point72.com/CSJobDetail?jobName=2019-cubist-software-engineering-internship-program&jobCode=CSS-0004136&retURL=/CSCareerSearch&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY | Finance | Python/C++ experience highly recommended
-[Progressive Insurance] | Cleveland, OH; Colorado Springs, CO | Insurance | Allows remote workers
+[Progressive Insurance](https://indiana.joinhandshake.com/jobs/5260182?ref=preview-header-click) | Cleveland, OH; Colorado Springs, CO | Insurance | Allows remote workers
 [Procter & Gamble](https://indiana.joinhandshake.com/jobs/5368617?ref=preview-header-click) | Cincinnati, OH | Consumer Retail | 
 [Qualtrics](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2022-Seattle-WA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | SaaS | Must have legal work authorization
 [r2C](https://jobs.lever.co/returntocorp/d0fdcc8a-c147-4795-868f-b0c239f1bf12?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Security | [Series B Startup](https://www.crunchbase.com/organization/r2c)
