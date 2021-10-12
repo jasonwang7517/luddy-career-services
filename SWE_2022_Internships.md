@@ -2,7 +2,10 @@
 
 Use this repo to track and share current positions in computer science/informatics related roles.
 
-If any postings are missing or expired, please feel free to contribute by making a pull request, reaching out to jason.wang7517@gmail.com, or [filling out this form.](https://forms.gle/DRp5S2EoxuHka8wa7) 
+If any postings are missing or expired, please feel free to [fill out this form.](https://forms.gle/DRp5S2EoxuHka8wa7) 
+
+Contact Career Services by visiting our office in Luddy Hall, first floor, or by calling 812-856-4903
+or, [email us](luddycareers@indiana.edu)
 
 ## Resources
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
