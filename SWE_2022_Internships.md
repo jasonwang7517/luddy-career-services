@@ -108,3 +108,16 @@ Name | Location(s) | Industry | Notes
 [Zoom, Back End Development Engineer](https://indiana.joinhandshake.com/jobs/5354826?ref=preview-header-click) | San Jose, CA | SaaS | Accepts OPT/CPT
 [Zoom, DevOps Engineer](https://indiana.joinhandshake.com/jobs/5354648?ref=preview-header-click) | San Jose, CA | SaaS | Accepts OPT/CPT
 [Zoom, Full Stack Engineer](https://indiana.joinhandshake.com/jobs/5354976?ref=preview-header-click) | San Jose, CA | SaaS | Accepts OPT/CPT
+
+Work In Progress: List for Informatics Opportunities
+
+The links below are opportunities chosen for Informatics students.
+
+
+Work In Progress: List for ISE Opportunities
+
+Name | Location(s) | Industry | Notes
+---- | ----------- | -------- | -----
+The links below are opportunities chosen for ISE students.
+[Akuna Capital, Quantitative Development](https://indiana.joinhandshake.com/jobs/4887069?ref=non-split-view-web-app&search_id=094aacff-984e-4f9f-ae22-92db801e6864) | Chicago, IL | Finance |
+[Akuna Capital, FPGA Development](https://indiana.joinhandshake.com/jobs/4887090?ref=non-split-view-web-app&search_id=40cf72a3-f29a-4083-8f47-8ecfa0815c64 ) | Chicago, IL | Finance | 
