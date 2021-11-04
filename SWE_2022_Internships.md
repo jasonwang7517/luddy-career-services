@@ -31,19 +31,29 @@ Job search platform for startups.
 
 ## Current Internship Openings
 
+Opportunities for Freshman/Sophomores
+Name | Location(s) | Industry | Notes
+---- | ----------- | -------- | -----
+[Facebook University, CS](https://indiana.joinhandshake.com/jobs/5278983?ref=non-split-view-web-app&search_id=898b9f72-9559-4c86-9727-70f7fdf8ebb5 ) | Remote - US | Social Media
+[Facebook University-- Analytics](https://indiana.joinhandshake.com/jobs/5354067?ref=non-split-view-web-app&search_id=d665bd1e-302e-47a1-b147-cf17f04eea19 ) | Remote - US | Social Media
+
+
 Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
 [Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us) | Remote - US | Finance
 [Akuna Capital, Development](https://indiana.joinhandshake.com/jobs/4892506) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT, must know Python
-[Akuna Capital, User Interface](https://indiana.joinhandshake.com/jobs/4892471?ref=preview-header-click) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT, must know C#, Java, and/or C++
 [Akuna Capital, C++ Developer](https://indiana.joinhandshake.com/jobs/4888973?ref=preview-header-click) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
-[Amazon](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Various | SaaS
+[Akuna Capital, Quantitative Trader](https://indiana.joinhandshake.com/jobs/4886984?ref=non-split-view-web-app&search_id=7c83d6fc-ec18-47d6-bfac-11009a4c989d) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
+[Akuna Capital, Quantitative Researcher](https://indiana.joinhandshake.com/jobs/4887038?ref=non-split-view-web-app&search_id=d76f2872-7253-4ebc-844b-930ef9ed4088) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
+[Akuna Capital, Data Infrastructure Development](https://indiana.joinhandshake.com/jobs/4887116?ref=non-split-view-web-app&search_id=ecf5c267-3b20-4b75-aa7a-5a4f9b79f797) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
+[Amazon, Software Development](https://indiana.joinhandshake.com/jobs/4854055?ref=non-split-view-web-app&search_id=e0395245-8835-400d-a889-379e4cff6ec2)| Seattle, WA | SaaS | Recommended for experienced students
 [Anduril Industries](https://jobs.lever.co/anduril/2b0ab206-432f-4f96-9cfd-fbdd211fc00b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | Aerospace & Defense
 [Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | SaaS | [Series B Startup](https://www.crunchbase.com/organization/anyscale)
 [Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | SaaS, Consumer Hardware | 
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | SaaS
 [Blackboard Inc](https://indiana.joinhandshake.com/jobs/5398035) | Indianapolis, IN | Education | 
-[Cisco Meraki](https://indiana.joinhandshake.com/jobs/5015887?ref=preview-header-click) | San Francisco, CA | SaaS
+[Cisco Meraki, Full Stack Developer](https://indiana.joinhandshake.com/jobs/5015887?ref=preview-header-click) | San Francisco, CA | SaaS
+[Cisco Meraki, Product Software Engineer](https://indiana.joinhandshake.com/jobs/5015831?ref=non-split-view-web-app&search_id=54d4719b-b3b8-42e3-a98d-aeb7ca743460) | San Francisco, CA | SaaS
 [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Chicago, IL; New York, NY | Finance | 
 [Citrix](https://indiana.joinhandshake.com/jobs/5176638?ref=preview-header-click) | Fort Lauderdale, FL; Burlington, MA; Raleigh, NC; Santa Clara, CA | Telecommunications | Prefer Java or C proficiency
 [Convoy](https://jobs.lever.co/convoy/27c772ba-2da3-4854-bb74-94f94eeb8d2f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | Automotive | [Series D startup](https://www.crunchbase.com/organization/convoy-3/company_financials)
@@ -55,9 +65,10 @@ Name | Location(s) | Industry | Notes
 [Epic](https://indiana.joinhandshake.com/jobs/5299708?ref=preview-header-click) | Verona, WI | Healthcare
 [Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-64060&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | Travel | Offers multiple tracks including traditional, data engineering, ML, security, and UX
 [Facebook](https://www.facebook.com/careers/v2/jobs/946116176191468/?location=Seattle%2C%20WA&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Various | Social Media | Must have legal work authorization
+[Facebook, Data Analytics Engineer](https://indiana.joinhandshake.com/jobs/5266883?ref=non-split-view-web-app&search_id=e7a691e5-4135-44c0-adab-ea64399bc635)| Various | Social Media | Recommended for experienced students
 [Google](https://careers.google.com/jobs/results/115615177363071686-software-engineering-intern-bachelors-summer-2022/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Various | SaaS |
 [Hewlett Packard](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Roseville-California/160181815?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | Various | Computer Hardware | Desires some exposure to full-stack development (e.g., OOP, SOAP/REST API, responsive JS)
-[Home Depot](https://careers.homedepot.com/job/13612675/software-engineer-intern-austin-austin-tx/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid) | Austin, TX | Consumer Retail
+[Home Depot, Cybersecurity](https://indiana.joinhandshake.com/jobs/5364460?ref=non-split-view-web-app&search_id=8606ec8e-abd2-49ab-8aa9-337f4a6e145a) | Austin, TX | Consumer Retail
 [IBM, AI](https://indiana.joinhandshake.com/jobs/5344965?ref=preview-header-click) | San Jose, CA; Yorktown Heights, NY; Cambridge, MA | SaaS
 [IBM, Backend Developer](https://indiana.joinhandshake.com/jobs/5162270?ref=preview-header-click) | Various | SaaS
 [IMC](https://careers.imc.com/us/en/job/REQ-01189/Software-Engineer-Intern-Summer-2022?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Chicago, IL | Finance | Prefer Java and/or C++ proficiency
@@ -112,12 +123,21 @@ Name | Location(s) | Industry | Notes
 Work In Progress: List for Informatics Opportunities
 
 The links below are opportunities chosen for Informatics students.
-
+Name | Location(s) | Industry | Notes
+---- | ----------- | -------- | -----
+[Amazon, Network Development Engineer](https://indiana.joinhandshake.com/jobs/5421931?ref=non-split-view-web-app&search_id=cfe9a53f-341e-4da1-93b9-419b37ddad05) | Seattle, WA | SaaS | 
+[Amazon, Associate Solutions Architect](https://indiana.joinhandshake.com/jobs/5150733?ref=non-split-view-web-app&search_id=9f1fae59-6a21-42c2-be7c-4e0e9278cf3d) | Seattle, WA | Saas |
+[Amazon, Professional Services Consultant](https://indiana.joinhandshake.com/jobs/5150638?ref=non-split-view-web-app&search_id=d8320757-043c-4f17-b413-10f918ee8766)| Seattle, WA| SaaS | Senior+. Recommended AWS 1 Certification.
+[D.E. Shaw, Strategy and Business Development Intern](https://indiana.joinhandshake.com/jobs/5390119?ref=non-split-view-web-app&search_id=0344c43f-ae0e-4db8-ae8e-07083f05ea30) | New York, NY | Finance | Ideal for business cognates
+[Ebay, Technical Product Manger](https://indiana.joinhandshake.com/jobs/5430313?ref=non-split-view-web-app&search_id=819490d0-72d2-4dc0-9a72-baeac33c93ed)| Various | E-commerce |
+[Home Depot, Product Management](https://indiana.joinhandshake.com/jobs/5364518?ref=non-split-view-web-app&search_id=21e5f481-6c7b-477d-80c8-1dc81ea22e94) | Remote | Retail |  
+[Home Depot, User Experience] (https://indiana.joinhandshake.com/jobs/5364492?ref=non-split-view-web-app&search_id=bb072b8b-4579-4bda-b666-4ad23a8dc023)| Remote | Retail |
 
 Work In Progress: List for ISE Opportunities
+The links below are opportunities chosen for ISE students.
 
 Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
-The links below are opportunities chosen for ISE students.
 [Akuna Capital, Quantitative Development](https://indiana.joinhandshake.com/jobs/4887069?ref=non-split-view-web-app&search_id=094aacff-984e-4f9f-ae22-92db801e6864) | Chicago, IL | Finance |
-[Akuna Capital, FPGA Development](https://indiana.joinhandshake.com/jobs/4887090?ref=non-split-view-web-app&search_id=40cf72a3-f29a-4083-8f47-8ecfa0815c64 ) | Chicago, IL | Finance | 
+[Akuna Capital, FPGA Development](https://indiana.joinhandshake.com/jobs/4887090?ref=non-split-view-web-app&search_id=40cf72a3-f29a-4083-8f47-8ecfa0815c64 ) | Chicago, IL | Finance |
+[Akuna Capital, User Interface](https://indiana.joinhandshake.com/jobs/4892471?ref=preview-header-click) | Chicago, IL | Finance | 
