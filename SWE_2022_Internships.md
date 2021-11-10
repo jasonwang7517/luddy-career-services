@@ -139,7 +139,7 @@ Name | Location(s) | Industry | Notes
 [D.E. Shaw, Strategy and Business Development Intern](https://indiana.joinhandshake.com/jobs/5390119?ref=non-split-view-web-app&search_id=0344c43f-ae0e-4db8-ae8e-07083f05ea30) | New York, NY | Finance | Ideal for business cognates
 [Ebay, Technical Product Manger](https://indiana.joinhandshake.com/jobs/5430313?ref=non-split-view-web-app&search_id=819490d0-72d2-4dc0-9a72-baeac33c93ed)| Various | E-commerce |
 [Home Depot, Product Management](https://indiana.joinhandshake.com/jobs/5364518?ref=non-split-view-web-app&search_id=21e5f481-6c7b-477d-80c8-1dc81ea22e94) | Remote | Retail |  
-[Home Depot, User Experience] (https://indiana.joinhandshake.com/jobs/5364492?ref=non-split-view-web-app&search_id=bb072b8b-4579-4bda-b666-4ad23a8dc023)| Remote | Retail |
+[Home Depot, User Experience](https://indiana.joinhandshake.com/jobs/5364492?ref=non-split-view-web-app&search_id=bb072b8b-4579-4bda-b666-4ad23a8dc023)| Remote | Retail |
 [IBM,Hardware Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5417712?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
 [IBM, Design Operations](https://indiana.joinhandshake.com/jobs/5355278?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
 [IBM,Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5396133?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
