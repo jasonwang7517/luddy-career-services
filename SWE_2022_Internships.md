@@ -71,6 +71,14 @@ Name | Location(s) | Industry | Notes
 [Home Depot, Cybersecurity](https://indiana.joinhandshake.com/jobs/5364460?ref=non-split-view-web-app&search_id=8606ec8e-abd2-49ab-8aa9-337f4a6e145a) | Austin, TX | Consumer Retail
 [IBM, AI](https://indiana.joinhandshake.com/jobs/5344965?ref=preview-header-click) | San Jose, CA; Yorktown Heights, NY; Cambridge, MA | SaaS
 [IBM, Backend Developer](https://indiana.joinhandshake.com/jobs/5162270?ref=preview-header-click) | Various | SaaS
+[IBM, Security Services Specialist](https://indiana.joinhandshake.com/jobs/5344054?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
+[IBM, Quantum and Qiskit Developer](https://indiana.joinhandshake.com/jobs/5319286?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
+[IBM, Security Services Specialist](https://indiana.joinhandshake.com/jobs/5344054?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
+[IBM, FirmWare Developer](https://indiana.joinhandshake.com/jobs/5346711?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
+[IBM, Security Services Developer](https://indiana.joinhandshake.com/jobs/5349016?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
+[IBM, Extreme Blue Technical Leadership Program: Back End Devs](https://indiana.joinhandshake.com/jobs/5379043?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
+[IBM, Database Administrator](https://indiana.joinhandshake.com/jobs/5409238?ref=non-split-view-web-app&search_id=212b4338-0a96-4576-b7e1-4425766c0e45  ) | Various | SaaS
+[IBM, Software Engineer - Impact Science](https://indiana.joinhandshake.com/jobs/5345123?ref=non-split-view-web-app&search_id=212b4338-0a96-4576-b7e1-4425766c0e45 ) | Various | SaaS
 [IMC](https://careers.imc.com/us/en/job/REQ-01189/Software-Engineer-Intern-Summer-2022?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Chicago, IL | Finance | Prefer Java and/or C++ proficiency
 [J.P. Morgan Chase & Co.](https://indiana.joinhandshake.com/jobs/5140754?ref=preview-header-click) | New York | Finance
 [L3Harris](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Greenville, TX | Aerospace & Defense | Also offer other locations. Each location has different listing but can be found on the careers site
@@ -132,6 +140,10 @@ Name | Location(s) | Industry | Notes
 [Ebay, Technical Product Manger](https://indiana.joinhandshake.com/jobs/5430313?ref=non-split-view-web-app&search_id=819490d0-72d2-4dc0-9a72-baeac33c93ed)| Various | E-commerce |
 [Home Depot, Product Management](https://indiana.joinhandshake.com/jobs/5364518?ref=non-split-view-web-app&search_id=21e5f481-6c7b-477d-80c8-1dc81ea22e94) | Remote | Retail |  
 [Home Depot, User Experience] (https://indiana.joinhandshake.com/jobs/5364492?ref=non-split-view-web-app&search_id=bb072b8b-4579-4bda-b666-4ad23a8dc023)| Remote | Retail |
+[IBM,Hardware Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5417712?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
+[IBM, Design Operations](https://indiana.joinhandshake.com/jobs/5355278?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
+[IBM,Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5396133?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
+
 
 Work In Progress: List for ISE Opportunities
 The links below are opportunities chosen for ISE students.
@@ -141,3 +153,4 @@ Name | Location(s) | Industry | Notes
 [Akuna Capital, Quantitative Development](https://indiana.joinhandshake.com/jobs/4887069?ref=non-split-view-web-app&search_id=094aacff-984e-4f9f-ae22-92db801e6864) | Chicago, IL | Finance |
 [Akuna Capital, FPGA Development](https://indiana.joinhandshake.com/jobs/4887090?ref=non-split-view-web-app&search_id=40cf72a3-f29a-4083-8f47-8ecfa0815c64 ) | Chicago, IL | Finance |
 [Akuna Capital, User Interface](https://indiana.joinhandshake.com/jobs/4892471?ref=preview-header-click) | Chicago, IL | Finance | 
+[IBM, Processor and Chip Design](https://indiana.joinhandshake.com/jobs/5354187?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7) | Various | SaaS
