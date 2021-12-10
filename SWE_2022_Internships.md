@@ -36,7 +36,7 @@ Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
 [Facebook University, CS](https://indiana.joinhandshake.com/jobs/5278983?ref=non-split-view-web-app&search_id=898b9f72-9559-4c86-9727-70f7fdf8ebb5 ) | Remote - US | Social Media
 [Facebook University-- Analytics](https://indiana.joinhandshake.com/jobs/5354067?ref=non-split-view-web-app&search_id=d665bd1e-302e-47a1-b147-cf17f04eea19 ) | Remote - US | Social Media
-
+[PIMCO, Career Exploration Program](https://indiana.joinhandshake.com/jobs/5452072?ref=non-split-view-web-app&search_id=9777f263-60c6-4a46-880e-55f7f865267e) | |
 
 Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
@@ -49,6 +49,10 @@ Name | Location(s) | Industry | Notes
 [Amazon, Software Development](https://indiana.joinhandshake.com/jobs/4854055?ref=non-split-view-web-app&search_id=e0395245-8835-400d-a889-379e4cff6ec2)| Seattle, WA | SaaS | Recommended for experienced students
 [Anduril Industries](https://jobs.lever.co/anduril/2b0ab206-432f-4f96-9cfd-fbdd211fc00b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | Aerospace & Defense
 [Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | SaaS | [Series B Startup](https://www.crunchbase.com/organization/anyscale)
+[Ascend Indiana, IT and Software Engineering](https://indiana.joinhandshake.com/jobs/5178630?ref=non-split-view-web-app&search_id=cefd3c4f-342e-4679-a7a8-d91f683827d8) | |
+[Ascend Indiana, Computer Science](https://indiana.joinhandshake.com/jobs/5347983?ref=non-split-view-web-app&search_id=8e5989a9-cc2e-42a7-8c5b-3557afbae64e) | |
+[Ascend Indiana, Cybersecurity](https://indiana.joinhandshake.com/jobs/5448410?ref=non-split-view-web-app&search_id=8e5989a9-cc2e-42a7-8c5b-3557afbae64e) | |
+[Asurion, Software Engineer](https://indiana.joinhandshake.com/jobs/5220501?ref=non-split-view-web-app&search_id=9f41ed55-a228-4ff7-96c3-b083e59218f9) | |
 [Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | SaaS, Consumer Hardware | 
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | SaaS
 [Blackboard Inc](https://indiana.joinhandshake.com/jobs/5398035) | Indianapolis, IN | Education | 
@@ -81,12 +85,25 @@ Name | Location(s) | Industry | Notes
 [IBM, Software Engineer - Impact Science](https://indiana.joinhandshake.com/jobs/5345123?ref=non-split-view-web-app&search_id=212b4338-0a96-4576-b7e1-4425766c0e45 ) | Various | SaaS
 [IMC](https://careers.imc.com/us/en/job/REQ-01189/Software-Engineer-Intern-Summer-2022?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Chicago, IL | Finance | Prefer Java and/or C++ proficiency
 [J.P. Morgan Chase & Co.](https://indiana.joinhandshake.com/jobs/5140754?ref=preview-header-click) | New York | Finance
+[Kohl's, Business Intelligence Analyst](https://indiana.joinhandshake.com/jobs/5223674?ref=non-split-view-web-app&search_id=fa45d228-9b04-4701-b262-d161c39789bb)| |
+[Kohl's, Product Management](https://indiana.joinhandshake.com/jobs/5236347?ref=non-split-view-web-app&search_id=fa45d228-9b04-4701-b262-d161c39789bb)| |
+[Kohl's, Information Security](https://indiana.joinhandshake.com/jobs/5236751?ref=non-split-view-web-app&search_id=fa45d228-9b04-4701-b262-d161c39789bb)| |
+[Kohl's, Software Engineer](https://indiana.joinhandshake.com/jobs/5236175?ref=non-split-view-web-app&search_id=fa45d228-9b04-4701-b262-d161c39789bb)| |
+[Kohl's, Business Intelligence Engineer](https://indiana.joinhandshake.com/jobs/5371902?ref=non-split-view-web-app&search_id=fa45d228-9b04-4701-b262-d161c39789bb)| |
 [L3Harris](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Greenville, TX | Aerospace & Defense | Also offer other locations. Each location has different listing but can be found on the careers site
 [Lenovo](https://indiana.joinhandshake.com/jobs/5101453?ref=preview-header-click) | Morrisville, NC | Hardware | Sponsors work visa and accepts OPT/CPT
+[Liberty Mutual Insurance, Analyst Development Program](https://indiana.joinhandshake.com/jobs/5287200?ref=non-split-view-web-app&search_id=3de26b41-e647-4ff7-8ae6-0a133c156d7e)| |
+[Liberty Mutual Insurance, TechStart](https://indiana.joinhandshake.com/jobs/5429836?ref=non-split-view-web-app&search_id=3de26b41-e647-4ff7-8ae6-0a133c156d7e)| |
 [Lyft, Frontend](https://boards.greenhouse.io/lyft/jobs/5456379002?gh_jid=5456379002&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | SaaS
 [Lyft, Generalist](https://boards.greenhouse.io/embed/job_app?token=5446225002&gh_src=uwvxb4jc2) | Seattle, WA | SaaS
 [Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Redmond, WA | SaaS | Feel free to reach out to Jarod Saxberg for more information (jarodcsaxberg@gmail.com)
 [MongoDB](https://www.mongodb.com/careers/jobs/3336092?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY; Austin, TX; San Francisco, CA | SaaS |
+[Motorola Solutions, IT Business Analyst](https://indiana.joinhandshake.com/jobs/5459014?ref=non-split-view-web-app&search_id=7f089cee-adb3-4749-bad9-b8a6726136cc)| |
+[Motorola Solutions, Cloud Devops](https://indiana.joinhandshake.com/jobs/5459098?ref=non-split-view-web-app&search_id=7f089cee-adb3-4749-bad9-b8a6726136cc)| |
+[Motorola Solutions, Software DevOps](https://indiana.joinhandshake.com/jobs/5459183?ref=non-split-view-web-app&search_id=7f089cee-adb3-4749-bad9-b8a6726136cc)| |
+[Motorola Solutions, CPQ Developer](https://indiana.joinhandshake.com/jobs/5459315?ref=non-split-view-web-app&search_id=7f089cee-adb3-4749-bad9-b8a6726136cc)| |
+[Motorola Solutions, Chatbot Developer](https://indiana.joinhandshake.com/jobs/5459138?ref=non-split-view-web-app&search_id=7f089cee-adb3-4749-bad9-b8a6726136cc)| |
+[Motorola Solutions, Network Tools Automation](https://indiana.joinhandshake.com/jobs/5459153?ref=non-split-view-web-app&search_id=7f089cee-adb3-4749-bad9-b8a6726136cc)| |
 [oak9](https://indiana.joinhandshake.com/jobs/5261441?ref=preview-header-click) | Chicago, IL | SaaS | [Seed Round Startup](https://www.crunchbase.com/organization/oak9/company_financials)
 [Ocient](https://indiana.joinhandshake.com/jobs/4965472?ref=preview-header-click) | Chicago, IL | Data | [Series B Startup](https://www.crunchbase.com/organization/ocient)
 [Olive](https://indiana.joinhandshake.com/jobs/5307519?ref=preview-header-click) | Columbus, OH | Healthcare | [Series H Startup](https://www.crunchbase.com/organization/olive-ai), has individual postings for several intern positions
@@ -94,6 +111,7 @@ Name | Location(s) | Industry | Notes
 [Paypal](https://indiana.joinhandshake.com/jobs/5318150?ref=preview-header-click) | Various | Finance | 
 [Palantir](https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | Seattle, WA | Data
 [Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA; Palo Alto, CA; San Francisco, CA | Social Media
+[PIMCO, Technology Analyst, Software Engineering](https://indiana.joinhandshake.com/jobs/5058059?ref=non-split-view-web-app&search_id=aca5838e-7320-433c-b2be-bf16b63d19d4) | |
 [Plaid](https://jobs.lever.co/plaid/94e3fd39-3cb6-4a63-83a4-f0b5be178b79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY | Finance
 [Pocket Gems](https://www.linkedin.com/jobs/view/software-engineer-summer-intern-2022-at-pocket-gems-2709728782/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Mobile Gaming | [Series B Startup](https://www.crunchbase.com/organization/pocket-gems)
 [Point72, Cubist Systematic Strategies](https://careers.point72.com/CSJobDetail?jobName=2019-cubist-software-engineering-internship-program&jobCode=CSS-0004136&retURL=/CSCareerSearch&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY | Finance | Python/C++ experience highly recommended
@@ -128,11 +146,14 @@ Name | Location(s) | Industry | Notes
 [Zoom, DevOps Engineer](https://indiana.joinhandshake.com/jobs/5354648?ref=preview-header-click) | San Jose, CA | SaaS | Accepts OPT/CPT
 [Zoom, Full Stack Engineer](https://indiana.joinhandshake.com/jobs/5354976?ref=preview-header-click) | San Jose, CA | SaaS | Accepts OPT/CPT
 
+
+
 Work In Progress: List for Informatics Opportunities
 
 The links below are opportunities chosen for Informatics students.
 Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
+[Ascend Indiana, Data Analytics and Management](https://indiana.joinhandshake.com/jobs/5180486?ref=non-split-view-web-app&search_id=768548bb-d96a-4b2a-b254-3c5ee6f18c20) | |
 [Amazon, Network Development Engineer](https://indiana.joinhandshake.com/jobs/5421931?ref=non-split-view-web-app&search_id=cfe9a53f-341e-4da1-93b9-419b37ddad05) | Seattle, WA | SaaS | 
 [Amazon, Associate Solutions Architect](https://indiana.joinhandshake.com/jobs/5150733?ref=non-split-view-web-app&search_id=9f1fae59-6a21-42c2-be7c-4e0e9278cf3d) | Seattle, WA | Saas |
 [Amazon, Professional Services Consultant](https://indiana.joinhandshake.com/jobs/5150638?ref=non-split-view-web-app&search_id=d8320757-043c-4f17-b413-10f918ee8766)| Seattle, WA| SaaS | Senior+. Recommended AWS 1 Certification.
@@ -143,6 +164,8 @@ Name | Location(s) | Industry | Notes
 [IBM,Hardware Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5417712?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
 [IBM, Design Operations](https://indiana.joinhandshake.com/jobs/5355278?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
 [IBM,Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5396133?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
+[Publicis Sapient, Junior Product Manager](https://indiana.joinhandshake.com/jobs/5241623?ref=non-split-view-web-app&search_id=08c03f3f-de20-4fe2-b00b-6001de728765) | |
+[PIMCO, Business Development Research Analyst](https://indiana.joinhandshake.com/jobs/5190077?ref=non-split-view-web-app&search_id=aca5838e-7320-433c-b2be-bf16b63d19d4) | |
 
 
 Work In Progress: List for ISE Opportunities
