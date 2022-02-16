@@ -37,6 +37,8 @@ Name | Location(s) | Industry | Notes
 [Facebook University, CS](https://indiana.joinhandshake.com/jobs/5278983?ref=non-split-view-web-app&search_id=898b9f72-9559-4c86-9727-70f7fdf8ebb5 ) | Remote - US | Social Media
 [Facebook University-- Analytics](https://indiana.joinhandshake.com/jobs/5354067?ref=non-split-view-web-app&search_id=d665bd1e-302e-47a1-b147-cf17f04eea19 ) | Remote - US | Social Media
 [PIMCO, Career Exploration Program](https://indiana.joinhandshake.com/jobs/5452072?ref=non-split-view-web-app&search_id=9777f263-60c6-4a46-880e-55f7f865267e) | |
+[Abercrombie & Fitch, Leadership Development Programs](https://indiana.joinhandshake.com/jobs/5161310?ref=non-split-view-web-app&search_id=d856412b-eca9-45c6-9f0f-0212b8eda213)| |
+[Abercrombie & Fitch, Digital & Technology Development Programs](https://indiana.joinhandshake.com/jobs/5213029?ref=non-split-view-web-app&search_id=d856412b-eca9-45c6-9f0f-0212b8eda213)| |
 
 Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
@@ -46,6 +48,10 @@ Name | Location(s) | Industry | Notes
 [Akuna Capital, Quantitative Trader](https://indiana.joinhandshake.com/jobs/4886984?ref=non-split-view-web-app&search_id=7c83d6fc-ec18-47d6-bfac-11009a4c989d) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
 [Akuna Capital, Quantitative Researcher](https://indiana.joinhandshake.com/jobs/4887038?ref=non-split-view-web-app&search_id=d76f2872-7253-4ebc-844b-930ef9ed4088) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
 [Akuna Capital, Data Infrastructure Development](https://indiana.joinhandshake.com/jobs/4887116?ref=non-split-view-web-app&search_id=ecf5c267-3b20-4b75-aa7a-5a4f9b79f797) | Chicago, IL | Finance | Will sponsor work visa and accepts OPT/CPT
+[Alight Solutions, IT Systems Administrator](https://indiana.joinhandshake.com/jobs/5336947?ref=non-split-view-web-app&search_id=9d4542ca-2ebf-4922-9d1e-dd33f0ae11b4)| |
+[Alight Solutions, Angular Developer Analyst](https://indiana.joinhandshake.com/jobs/5555834?ref=non-split-view-web-app&search_id=9d4542ca-2ebf-4922-9d1e-dd33f0ae11b4)| |
+[Alight Solutions, Infrastructure Cloud Agile Project Coordinator](https://indiana.joinhandshake.com/jobs/5555499?ref=non-split-view-web-app&search_id=9d4542ca-2ebf-4922-9d1e-dd33f0ae11b4)| |
+[Alight Solutions, Infrastructure Cloud Project Coordinator](https://indiana.joinhandshake.com/jobs/5555683?ref=non-split-view-web-app&search_id=9d4542ca-2ebf-4922-9d1e-dd33f0ae11b4)| |
 [Amazon, Software Development](https://indiana.joinhandshake.com/jobs/4854055?ref=non-split-view-web-app&search_id=e0395245-8835-400d-a889-379e4cff6ec2)| Seattle, WA | SaaS | Recommended for experienced students
 [Anduril Industries](https://jobs.lever.co/anduril/2b0ab206-432f-4f96-9cfd-fbdd211fc00b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | Aerospace & Defense
 [Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | SaaS | [Series B Startup](https://www.crunchbase.com/organization/anyscale)
@@ -55,7 +61,10 @@ Name | Location(s) | Industry | Notes
 [Asurion, Software Engineer](https://indiana.joinhandshake.com/jobs/5220501?ref=non-split-view-web-app&search_id=9f41ed55-a228-4ff7-96c3-b083e59218f9) | |
 [Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | SaaS, Consumer Hardware | 
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | SaaS
+[Belvedere Trading, Software Engineer](https://indiana.joinhandshake.com/jobs/5033293?ref=non-split-view-web-app&search_id=0c8a35e2-05b2-4c4c-9dcf-6a2bc2eef9fa)| |
 [Blackboard Inc](https://indiana.joinhandshake.com/jobs/5398035) | Indianapolis, IN | Education | 
+[Clarity Partners, Software Developement](https://indiana.joinhandshake.com/jobs/5426103?ref=non-split-view-web-app&search_id=dc503306-a983-4414-8755-7c5908c0e1b6)| |
+[Cognizant, Technology](https://indiana.joinhandshake.com/jobs/5470670?ref=non-split-view-web-app&search_id=921defdd-0d0c-4990-b1dc-b2e979da94fb)| |
 [Cisco Meraki, Full Stack Developer](https://indiana.joinhandshake.com/jobs/5015887?ref=preview-header-click) | San Francisco, CA | SaaS
 [Cisco Meraki, Product Software Engineer](https://indiana.joinhandshake.com/jobs/5015831?ref=non-split-view-web-app&search_id=54d4719b-b3b8-42e3-a98d-aeb7ca743460) | San Francisco, CA | SaaS
 [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Chicago, IL; New York, NY | Finance | 
@@ -70,6 +79,16 @@ Name | Location(s) | Industry | Notes
 [Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-64060&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | Travel | Offers multiple tracks including traditional, data engineering, ML, security, and UX
 [Facebook](https://www.facebook.com/careers/v2/jobs/946116176191468/?location=Seattle%2C%20WA&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Various | Social Media | Must have legal work authorization
 [Facebook, Data Analytics Engineer](https://indiana.joinhandshake.com/jobs/5266883?ref=non-split-view-web-app&search_id=e7a691e5-4135-44c0-adab-ea64399bc635)| Various | Social Media | Recommended for experienced students
+[Ford Motor, IT Software Engineering](https://indiana.joinhandshake.com/jobs/5294983?ref=non-split-view-web-app&search_id=ab8d7038-4e23-49d0-8647-d845e069cb0e)| |
+[Ford Motor, Service Engineering Operations](https://indiana.joinhandshake.com/jobs/5318292?ref=non-split-view-web-app&search_id=ab8d7038-4e23-49d0-8647-d845e069cb0e)| |
+[Garmin, Software Engineer - Embedded - Olathe, KS](https://indiana.joinhandshake.com/jobs/5131372?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Software Engineer - Web Development/DevOps - Olathe, KS](https://indiana.joinhandshake.com/jobs/5154852?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Software Engineer - Mobile - Olathe, KS](https://indiana.joinhandshake.com/jobs/5156130?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Design Engineer (Electrical) - Olathe, KS](https://indiana.joinhandshake.com/jobs/5288820?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Software Engineer - Boulder, CO](https://indiana.joinhandshake.com/jobs/5326046?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Software Engineer - Tucson, AZ](https://indiana.joinhandshake.com/jobs/5326103?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Reliability Engineer - Olathe, KS](https://indiana.joinhandshake.com/jobs/5648741?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Software Engineer - Yarmouth, ME](https://indiana.joinhandshake.com/jobs/5322867?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
 [Google](https://careers.google.com/jobs/results/115615177363071686-software-engineering-intern-bachelors-summer-2022/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Various | SaaS |
 [Hewlett Packard](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Roseville-California/160181815?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | Various | Computer Hardware | Desires some exposure to full-stack development (e.g., OOP, SOAP/REST API, responsive JS)
 [Home Depot, Cybersecurity](https://indiana.joinhandshake.com/jobs/5364460?ref=non-split-view-web-app&search_id=8606ec8e-abd2-49ab-8aa9-337f4a6e145a) | Austin, TX | Consumer Retail
@@ -117,7 +136,14 @@ Name | Location(s) | Industry | Notes
 [Point72, Cubist Systematic Strategies](https://careers.point72.com/CSJobDetail?jobName=2019-cubist-software-engineering-internship-program&jobCode=CSS-0004136&retURL=/CSCareerSearch&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY | Finance | Python/C++ experience highly recommended
 [Progressive Insurance](https://indiana.joinhandshake.com/jobs/5260182?ref=preview-header-click) | Cleveland, OH; Colorado Springs, CO | Insurance | Allows remote workers
 [Procter & Gamble](https://indiana.joinhandshake.com/jobs/5368617?ref=preview-header-click) | Cincinnati, OH | Consumer Retail | 
-[Qualtrics](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2022-Seattle-WA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA | SaaS | Must have legal work authorization
+[Qualtrics, Software Engineer - Seattle, WA](https://indiana.joinhandshake.com/jobs/5300353?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
+[Qualtrics, Software Engineer - Provo, UT](https://indiana.joinhandshake.com/jobs/5300381?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
+[Qualtrics, Software Test Engineering - Provo, UT](https://indiana.joinhandshake.com/jobs/5300576?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
+[Qualtrics, Software Test Engineering - Seattle, WA](https://indiana.joinhandshake.com/jobs/5300603?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
+[Qualtrics, Software Development Engineer - Seattle, WA](https://indiana.joinhandshake.com/jobs/5300620?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
+[Resultant, Multiple Positions](https://indiana.joinhandshake.com/jobs/5238912?ref=non-split-view-web-app&search_id=2b03ce4f-c992-4936-bea9-0cb32ac2da19)| |
+[Target, Software Engineer](https://indiana.joinhandshake.com/jobs/5333930?ref=non-split-view-web-app&search_id=df960ce1-b581-4ec7-94e1-2a826a96393e)| |
+[Uline, Software Developer](https://indiana.joinhandshake.com/jobs/5532088?ref=non-split-view-web-app&search_id=d17792fe-bcc3-4622-a4a0-86da5d8bcb44)| |
 [r2C](https://jobs.lever.co/returntocorp/d0fdcc8a-c147-4795-868f-b0c239f1bf12?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Security | [Series B Startup](https://www.crunchbase.com/organization/r2c)
 [Robinhood](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166) | Menlo Park, CA | Finance | 
 [Samsara](https://indiana.joinhandshake.com/jobs/5200764?ref=preview-header-click) | San Francisco, CA; Atlanta, GA | SaaS | [Series F Startup](https://www.crunchbase.com/organization/samsara-2/company_financials)
@@ -154,18 +180,53 @@ The links below are opportunities chosen for Informatics students.
 Name | Location(s) | Industry | Notes
 ---- | ----------- | -------- | -----
 [Ascend Indiana, Data Analytics and Management](https://indiana.joinhandshake.com/jobs/5180486?ref=non-split-view-web-app&search_id=768548bb-d96a-4b2a-b254-3c5ee6f18c20) | |
+[Allianz Life, Investment Management Analyst](https://indiana.joinhandshake.com/jobs/5214425?ref=non-split-view-web-app&search_id=3782b47f-fe62-4d88-ab7b-680473324265)| |
+[Allianz Life, Hedging Analyst](https://indiana.joinhandshake.com/jobs/5366762?ref=non-split-view-web-app&search_id=3782b47f-fe62-4d88-ab7b-680473324265)| |
 [Amazon, Network Development Engineer](https://indiana.joinhandshake.com/jobs/5421931?ref=non-split-view-web-app&search_id=cfe9a53f-341e-4da1-93b9-419b37ddad05) | Seattle, WA | SaaS | 
 [Amazon, Associate Solutions Architect](https://indiana.joinhandshake.com/jobs/5150733?ref=non-split-view-web-app&search_id=9f1fae59-6a21-42c2-be7c-4e0e9278cf3d) | Seattle, WA | Saas |
 [Amazon, Professional Services Consultant](https://indiana.joinhandshake.com/jobs/5150638?ref=non-split-view-web-app&search_id=d8320757-043c-4f17-b413-10f918ee8766)| Seattle, WA| SaaS | Senior+. Recommended AWS 1 Certification.
+[Cummins, Electronic Systems](https://indiana.joinhandshake.com/jobs/5383849?ref=non-split-view-web-app&search_id=c95e7f26-427e-4e0d-bb53-a996567a3131)| |
+[Cummins, IT](https://indiana.joinhandshake.com/jobs/5381533?ref=non-split-view-web-app&search_id=c95e7f26-427e-4e0d-bb53-a996567a3131)| |
 [D.E. Shaw, Strategy and Business Development Intern](https://indiana.joinhandshake.com/jobs/5390119?ref=non-split-view-web-app&search_id=0344c43f-ae0e-4db8-ae8e-07083f05ea30) | New York, NY | Finance | Ideal for business cognates
 [Ebay, Technical Product Manger](https://indiana.joinhandshake.com/jobs/5430313?ref=non-split-view-web-app&search_id=819490d0-72d2-4dc0-9a72-baeac33c93ed)| Various | E-commerce |
+[Ford Motor, Product Development](https://indiana.joinhandshake.com/jobs/5301169?ref=non-split-view-web-app&search_id=ab8d7038-4e23-49d0-8647-d845e069cb0e)| |
+[Ford Motor, Product Development Software](https://indiana.joinhandshake.com/jobs/5301226?ref=non-split-view-web-app&search_id=ab8d7038-4e23-49d0-8647-d845e069cb0e)| |
+[Ford Motor, Research and Advances Engineering](https://indiana.joinhandshake.com/jobs/5299882?ref=non-split-view-web-app&search_id=ab8d7038-4e23-49d0-8647-d845e069cb0e)| |
+[Ford Motor, IT](https://indiana.joinhandshake.com/jobs/5294878?ref=non-split-view-web-app&search_id=ab8d7038-4e23-49d0-8647-d845e069cb0e)| |
 [Home Depot, Product Management](https://indiana.joinhandshake.com/jobs/5364518?ref=non-split-view-web-app&search_id=21e5f481-6c7b-477d-80c8-1dc81ea22e94) | Remote | Retail |  
 [Home Depot, User Experience](https://indiana.joinhandshake.com/jobs/5364492?ref=non-split-view-web-app&search_id=bb072b8b-4579-4bda-b666-4ad23a8dc023)| Remote | Retail |
 [IBM,Hardware Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5417712?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
 [IBM, Design Operations](https://indiana.joinhandshake.com/jobs/5355278?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7 ) | Various | SaaS
 [IBM,Client Facing Technical Support Developer](https://indiana.joinhandshake.com/jobs/5396133?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7  ) | Various | SaaS
+[Navy Federal Credit Union, IT Corporate Systems](https://indiana.joinhandshake.com/jobs/5701365?ref=non-split-view-web-app&search_id=f665c487-2319-48f1-9304-d41c002adcf0)| |
+[Navy Federal Credit Union, Information Security Analyst](https://indiana.joinhandshake.com/jobs/5708362?ref=non-split-view-web-app&search_id=f665c487-2319-48f1-9304-d41c002adcf0)| |
+[Navy Federal Credit Union, Marketing Data Science and Analytics](https://indiana.joinhandshake.com/jobs/5709664?ref=non-split-view-web-app&search_id=f665c487-2319-48f1-9304-d41c002adcf0)| |
+[Navy Federal Credit Union, IT - Service & Resource Management](https://indiana.joinhandshake.com/jobs/5701823?ref=non-split-view-web-app&search_id=f665c487-2319-48f1-9304-d41c002adcf0)| |
+[Navy Federal Credit Union, IT Firewall/DNS/LB/NAC Engineering](https://indiana.joinhandshake.com/jobs/5705899?ref=non-split-view-web-app&search_id=5bd25f40-7db8-4487-9386-666ef4dbb4f0)| |
+[Navy Federal Credit Union, Digital Engineering](https://indiana.joinhandshake.com/jobs/5708086?ref=non-split-view-web-app&search_id=5bd25f40-7db8-4487-9386-666ef4dbb4f0)| |
+[Navy Federal Credit Union, IT HelpDesk](https://indiana.joinhandshake.com/jobs/5700954?ref=non-split-view-web-app&search_id=de87d8b2-64d4-4c35-b77a-012f98a159bf)| |
+[Navy Federal Credit Union, IT Operations Services & Infra Engineer Services](https://indiana.joinhandshake.com/jobs/5705087?ref=non-split-view-web-app&search_id=9c7c3f6c-1490-40da-8604-1505c17dda15)| |
 [Publicis Sapient, Junior Product Manager](https://indiana.joinhandshake.com/jobs/5241623?ref=non-split-view-web-app&search_id=08c03f3f-de20-4fe2-b00b-6001de728765) | |
 [PIMCO, Business Development Research Analyst](https://indiana.joinhandshake.com/jobs/5190077?ref=non-split-view-web-app&search_id=aca5838e-7320-433c-b2be-bf16b63d19d4) | |
+[Plante Morgan, Cybersecurity Consultant](https://indiana.joinhandshake.com/jobs/5291633?ref=non-split-view-web-app&search_id=14859788-8226-4477-8497-a155ea7c8f30)| |
+[Plante Morgan, IT Consultanting](https://indiana.joinhandshake.com/jobs/5291855?ref=non-split-view-web-app&search_id=14859788-8226-4477-8497-a155ea7c8f30)| |
+[Plante Morgan, Managed IT Consultant](https://indiana.joinhandshake.com/jobs/5291898?ref=non-split-view-web-app&search_id=14859788-8226-4477-8497-a155ea7c8f30)| |
+[Plante Morgan, Business Technology Advisor](https://indiana.joinhandshake.com/jobs/5291990?ref=non-split-view-web-app&search_id=14859788-8226-4477-8497-a155ea7c8f30)| |
+[Plante Morgan, Business Analytics Consultant](https://indiana.joinhandshake.com/jobs/5292107?ref=non-split-view-web-app&search_id=14859788-8226-4477-8497-a155ea7c8f30)| |
+[Plante Morgan, Healthcare Analytics Consultant](https://indiana.joinhandshake.com/jobs/5292153?ref=non-split-view-web-app&search_id=009ae3a0-ba0e-46c2-9fad-81400c6b7b6e)| |
+[Stellantis - FCA Fiat Chrysler Automobiles, Sales Data Analytics](https://indiana.joinhandshake.com/jobs/5640411?ref=non-split-view-web-app&search_id=f5c8717d-d09c-44ff-8ba1-46d396e8d40f)| |
+[Uline, Quotes Analyst](https://indiana.joinhandshake.com/jobs/5336361?ref=non-split-view-web-app&search_id=d17792fe-bcc3-4622-a4a0-86da5d8bcb44)| |
+[Uline, eCommerce Data Analyst](https://indiana.joinhandshake.com/jobs/5527495?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Product Management](https://indiana.joinhandshake.com/jobs/5527677?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, eCommerce Business Analyst](https://indiana.joinhandshake.com/jobs/5527695?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Sales Analyst](https://indiana.joinhandshake.com/jobs/5531226?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Data Analyst](https://indiana.joinhandshake.com/jobs/5531762?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Business Operations Analyst](https://indiana.joinhandshake.com/jobs/5531975?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Solutions Analyst](https://indiana.joinhandshake.com/jobs/5532034?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Data Engineer](https://indiana.joinhandshake.com/jobs/5532133?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Network Engineer](https://indiana.joinhandshake.com/jobs/5532502?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Systems Technician](https://indiana.joinhandshake.com/jobs/5532528?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
+[Uline, Logistics Analyst](https://indiana.joinhandshake.com/jobs/5532553?ref=non-split-view-web-app&search_id=efdd281f-eaf2-481e-a429-a883291856ad)| |
 
 
 Work In Progress: List for ISE Opportunities
@@ -176,4 +237,10 @@ Name | Location(s) | Industry | Notes
 [Akuna Capital, Quantitative Development](https://indiana.joinhandshake.com/jobs/4887069?ref=non-split-view-web-app&search_id=094aacff-984e-4f9f-ae22-92db801e6864) | Chicago, IL | Finance |
 [Akuna Capital, FPGA Development](https://indiana.joinhandshake.com/jobs/4887090?ref=non-split-view-web-app&search_id=40cf72a3-f29a-4083-8f47-8ecfa0815c64 ) | Chicago, IL | Finance |
 [Akuna Capital, User Interface](https://indiana.joinhandshake.com/jobs/4892471?ref=preview-header-click) | Chicago, IL | Finance | 
+[Garmin, Mechanical Engineering](https://indiana.joinhandshake.com/jobs/5326252?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Aviation Systems Engineer](https://indiana.joinhandshake.com/jobs/5369216?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Design Engineer - Yarmouth, ME](https://indiana.joinhandshake.com/jobs/5538012?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Design Engineer - Tucson, AZ](https://indiana.joinhandshake.com/jobs/5562215?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
+[Garmin, Design Engineer (Electrical) - Tulsa, OK](https://indiana.joinhandshake.com/jobs/5622938?ref=non-split-view-web-app&search_id=36e96889-75d1-439a-a932-cdcbe455c43c)| |
 [IBM, Processor and Chip Design](https://indiana.joinhandshake.com/jobs/5354187?ref=non-split-view-web-app&search_id=fdef37ea-aaf6-4791-b3a6-3324072182b7) | Various | SaaS
+[Stellantis - FCA Fiat Chrysler Automobiles, Engineering](https://indiana.joinhandshake.com/jobs/5285585?ref=non-split-view-web-app&search_id=f5c8717d-d09c-44ff-8ba1-46d396e8d40f)| |
