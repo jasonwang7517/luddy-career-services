@@ -88,7 +88,7 @@ Name | Location(s) | Industry | Notes
 [Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Seattle, WA; Palo Alto, CA; San Francisco, CA | Social Media
 [Plaid](https://jobs.lever.co/plaid/94e3fd39-3cb6-4a63-83a4-f0b5be178b79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York, NY | Finance
 [Progressive Insurance](https://indiana.joinhandshake.com/jobs/5260182?ref=preview-header-click) | Cleveland, OH; Colorado Springs, CO | Insurance | Allows remote workers
-[Qualtrics, Software Engineer - Seattle, WA](https://indiana.joinhandshake.com/jobs/5300353?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19 440a4de9ab)| |
+[Qualtrics, Software Engineer - Seattle, WA](https://indiana.joinhandshake.com/jobs/5300353?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-1940a4de9ab)| |
 [Qualtrics, Software Engineer - Provo, UT](https://indiana.joinhandshake.com/jobs/5300381?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
 [Qualtrics, Software Test Engineering - Provo, UT](https://indiana.joinhandshake.com/jobs/5300576?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
 [Qualtrics, Software Test Engineering - Seattle, WA](https://indiana.joinhandshake.com/jobs/5300603?ref=non-split-view-web-app&search_id=9383fadb-6c1b-48a1-ab5c-19440a4de9ab)| |
